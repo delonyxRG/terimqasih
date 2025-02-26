@@ -11,7 +11,7 @@
 }
 
 #envelope {
-    position: relative;
+    position: absolute;
     width: 500px;
     height: 410px;
     border-bottom-left-radius: 6px;
