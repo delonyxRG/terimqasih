@@ -59,7 +59,7 @@
 }
 
 .message {
-    position: relative;
+    position: absolute;
     z-index: 2;
     font-family: 'Handlee', cursive;
     color: #d46a84;
